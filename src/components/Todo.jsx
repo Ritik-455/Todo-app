@@ -65,7 +65,7 @@ function New() {
     return (
         <>
             <div className="flex justify-center relative">
-                <div className="w-[411px] min-h-[731px] h-full rounded-[10px] bg-[linear-gradient(179.98deg,#1253AA_00.2%,#05243E_99.98%)] relative">
+                <div className="w-[411px] min-h-[729px] h-full rounded-[10px] bg-[linear-gradient(179.98deg,#1253AA_00.2%,#05243E_99.98%)] relative">
                     <div className="p-[45px_9px_0px_18px]">
                         <div className="flex gap-[8px]">
                             <div className=" w-[252px] h-[42px] rounded-[10px] bg-[#102D53CC] p-[12px_19px_13px_8px] flex justify-between">
@@ -88,7 +88,6 @@ function New() {
                                             <path d="M11.3913 8.05321L3.36035 0.686162C3.08976 0.437946 2.65683 0.437946 2.38624 0.686162L0.589565 2.33432C0.318981 2.58253 0.318981 2.97968 0.589565 3.22789L6.33677 8.5L0.589565 13.7721C0.318981 14.0203 0.318981 14.4175 0.589565 14.6657L2.38624 16.3138C2.65683 16.5621 3.08976 16.5621 3.36035 16.3138L11.3913 8.94679C11.6619 8.69857 11.6619 8.30143 11.3913 8.05321Z" fill="#0EA5E9" />
                                         </svg>
                                     </li>
-
                                 </div>
                             ))}
                         </ul >
